@@ -17,12 +17,12 @@ public class v2trifiv guillermo {
                 mult3 = numero%3;
                 mult5 = numero%5;
                 //Salida de datos
-                if(mult3==0 && mult5==0)
-                {System.out.println("trifiv");
-                } else if (mult3==0)
-                {System.out.println("tri"); 
-                } else if (mult5==0)
-               { System.out.println("fiv");   
+                if(mult3==0 && mult5==0){
+                System.out.println("trifiv");
+                } else if (mult3==0) {
+                System.out.println("tri"); 
+                } else if (mult5==0) {
+                System.out.println("fiv");   
                }
     }
 }
